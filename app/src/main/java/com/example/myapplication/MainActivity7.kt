@@ -10,6 +10,7 @@ import com.example.myapplication.adapter.BillAdapter
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class MainActivity7 : AppCompatActivity() {
+
     private lateinit var billOpenHelper: BillOpenHelper
     private lateinit var lv: ListView
     private lateinit var etSearch: EditText
@@ -34,13 +35,13 @@ class MainActivity7 : AppCompatActivity() {
         etSearch = findViewById(R.id.ed_search)
 
         // 搜索按鈕
-        findViewById<Button>(R.id.btn_search).setOnClickListener {
+        findViewById<Button>(R.id.btn_search).setOnClickListener() {
             setData()
         }
 
         // 新增按鈕
-        findViewById<Button>(R.id.btn_in).setOnClickListener(){
-            startActivity(Intent(this,MainActivity8::class.java))
+        findViewById<Button>(R.id.btn_in).setOnClickListener() {
+            startActivity(Intent(this, MainActivity8::class.java))
         }
     }
 
