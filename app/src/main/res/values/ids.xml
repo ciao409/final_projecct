@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_name" type="id" />
+    <item name="tv_part" type="id" />
+    <item name="tv_money" type="id" />
+    <item name="tv_getMoney" type="id" />
+    <item name="linner" type="id" />
+    <item name="tv_remake" type="id" />
+    <item name="tv_time" type="id" />
+</resources>

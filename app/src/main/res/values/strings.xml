@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">final project</string>
+    <string name="btn">查看列表</string>
+    <string name="textView">請輸入項目</string>
+    <string name="ed">品項名稱</string>
+    <string name="textView1">請輸入金額</string>
+    <string name="textView4">可用金額</string>
+    <string name="textView5">剩餘金額</string>
+    <string name="ed_search">紀錄搜尋</string>
+    <string name="btn_search">搜尋</string>
+    <string name="btn_new">Rup4bj4</string>
+    <string name="btn_in">進入分帳</string>
+    <string name="ed_travelName">輸入旅行名稱</string>
+    <string name="ed_name">請輸入成員暱稱</string>
+    <string name="ed_part">請輸入項目</string>
+    <string name="ed_money">請輸入支付金額</string>
+    <string name="btn_add">新增</string>
+    <string name="name">姓名</string>
+    <string name="part">項目</string>
+    <string name="money">支付</string>
+    <string name="get_money">結餘</string>
+    <string name="btn_save">結束保存</string>
+</resources>
